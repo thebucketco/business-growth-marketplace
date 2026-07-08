@@ -1,4 +1,4 @@
-# Ju's Business Growth Marketplace
+# The Bucket Co. Business Growth Marketplace
 
 A Claude Code / Cowork plugin marketplace hosting the **business-growth** plugin.
 
